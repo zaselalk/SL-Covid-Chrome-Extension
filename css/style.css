@@ -1,0 +1,40 @@
+body {
+  height: 400px;
+  width: 300px;
+}
+.content-container {
+  display: flex;
+  justify-content: center;
+}
+.main-img {
+  width: 123.5px;
+  height: 123.5px;
+}
+.title {
+  font-size: 21px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.count {
+  text-align: center;
+}
+.number-caption-death {
+  font-size: 14px;
+}
+#death-count {
+  font-size: 49px;
+  color: rgb(228, 47, 47);
+}
+.count-container {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-around;
+}
+.count > span:first-child {
+  font-size: 25px;
+}
+.numer-caption {
+  font-size: 9px;
+}
+.last-update{
+    font-weight: bold;
+}
