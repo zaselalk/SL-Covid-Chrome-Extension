@@ -8,5 +8,5 @@
 * Get Covid Daily details within seconds without leaving your favourite website
 * get more details by clicking source url
 
-Enjoy ? Don't Forget to Star this Repo and feel free to follow me for more projects like this
+If it is useful? then Don't Forget to Star this Repo and feel free to follow me for more projects like this
 
